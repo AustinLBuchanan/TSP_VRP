@@ -44,14 +44,20 @@ Helpful references:
    - Visualizes the 2-matching solution using NetworkX
    - Adds violated subtour elimination constraints (in an iterative fashion)
    - Visualizes the solution using NetworkX
-2. [MTZ_model](https://github.com/AustinLBuchanan/TSP_VRP/blob/main/MTZ_model.ipynb)
+2. [DFJ_model_with_callbacks](https://github.com/AustinLBuchanan/TSP_VRP/blob/main/DFJ_model_with_callbacks.ipynb)
+   - Generates a random 20-city TSP instance in the plane
+   - Visualizes the instance using NetworkX
+   - Solves the DFJ model using Gurobi
+   - Adds violated subtour elimination constraints in a callback
+   - Visualizes the solution using NetworkX
+3. [MTZ_model](https://github.com/AustinLBuchanan/TSP_VRP/blob/main/MTZ_model.ipynb)
    - Generates a random 20-city TSP instance in the plane
    - Visualizes the instance using NetworkX
    - Solves the assignment relaxation using Gurobi
    - Visualizes the assignment solution using NetworkX
    - Adds Miller-Tucker-Zemlin constraints and re-solves using Gurobi
    - Visualizes the solution using NetworkX
-3. [MTZ_CVRP_model](https://github.com/AustinLBuchanan/TSP_VRP/blob/main/MTZ_CVRP_model.ipynb)
+4. [MTZ_CVRP_model](https://github.com/AustinLBuchanan/TSP_VRP/blob/main/MTZ_CVRP_model.ipynb)
    - Generates a random 20-city, 4-vehicle CVRP instance in the plane
    - Visualizes the instance using NetworkX
    - Solves an assignment relaxation using Gurobi
