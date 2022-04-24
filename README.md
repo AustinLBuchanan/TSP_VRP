@@ -69,5 +69,5 @@ Also see a [Python interface for the LKH heuristic](https://github.com/fikisipi/
 5. [RCI_CVRP_model](https://github.com/AustinLBuchanan/TSP_VRP/blob/main/RCI_CVRP_model.ipynb)
    - Generates a random 20-city, 4-vehicle CVRP instance in the plane
    - Visualizes the instance using NetworkX
-   - Adds violated rounded capacity inequalities (RCI) (or subtour elimination constraints) in a callback
+   - Adds violated rounded capacity inequalities (or subtour elimination constraints) in a callback
    - Visualizes the solution using NetworkX
