@@ -4,6 +4,7 @@ Example codes for the traveling salesman problem (TSP) and vehicle routing probl
 Helpful references: 
 1. [The traveling salesman problem: A case study in local optimization](https://scholar.google.com/scholar?cluster=8249601619393406923&hl=en&as_sdt=0,37) by Johnson and McGeoch.
 2. [The Vehicle Routing Problem](https://scholar.google.com/scholar?cluster=5139244580018150315&hl=en&as_sdt=0,37) edited by Toth and Vigo.
+3. [Video lecture by Bill Cook](https://youtu.be/5VjphFYQKj8)
 
 Also see a [Python interface for the LKH heuristic](https://github.com/fikisipi/elkai) and [simple test](https://github.com/AustinLBuchanan/LKH_test/blob/main/lkh-test.ipynb).
 
